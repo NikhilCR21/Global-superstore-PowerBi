@@ -1,8 +1,11 @@
 Global Superstore Data Analysis with Power BI
+
 Overview
+
 This project involves analyzing data from the "Global Superstore.xlsx" file using Power BI. The analysis aims to uncover insights into sales performance, returns, and regional distributions of a global retail business.
 
 Data Sources
+
 The Excel file comprises three sheets:
 
 Orders
@@ -10,6 +13,7 @@ Returns
 People
 
 Insights
+
 1.Sales and Orders:
 
 Total orders: 178,000 Total sales: $12.64M This indicates an average order value of approximately $71
